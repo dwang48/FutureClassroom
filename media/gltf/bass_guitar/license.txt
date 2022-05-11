@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bass Guitar
+* source:	https://sketchfab.com/3d-models/bass-guitar-43d189ba82b34f47a02b33298197c36d
+* author:	alekseykarp665 (https://sketchfab.com/alekseykarp665)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bass Guitar" (https://sketchfab.com/3d-models/bass-guitar-43d189ba82b34f47a02b33298197c36d) by alekseykarp665 (https://sketchfab.com/alekseykarp665) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
